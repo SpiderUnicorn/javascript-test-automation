@@ -1,0 +1,8 @@
+{
+  "name": "wallaby",
+  "dependencies": {},
+  "globalDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "jasmine": "registry:dt/jasmine#2.5.0+20161025102649"
+  }
+}

@@ -1,0 +1,19 @@
+
+# Logs
+*.log
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Yarn lock file
+yarn.lock
+
+# My VS Code demo settings for presentation
+.vscode
+
+# Dependency directories - downloaded by running 'npm install'
+node_modules
+
+# Typings files - downloaded by running 'typings install'
+typings
